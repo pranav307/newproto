@@ -9,10 +9,10 @@ function Lms(){
 
             <h1 className="text-2xl font-serif text-center m-4 hover:underline hover:decoration-cyan-400 text-white"> Learning Management System (Lms)</h1>
             <div className="grid sm:grid-cols-2 grid-cols-1 ">
-              <img src="/public/assets/2025-05-15 (6).png"
+              <img src="/public/assets/lms1.png"
               className="w-full h-full object-cover p-2"
               ></img>
-              <img src="/public/assets/2025-05-15 (9).png"
+              <img src="/public/assets/lms2.png"
                  className="w-full h-full object-cover p-2"
               ></img>
             </div>

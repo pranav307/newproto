@@ -10,7 +10,7 @@ import { MenuIcon, X } from "lucide-react";
 
 
 function Home(){
-    const locstion = useLocation();
+    const location = useLocation();
     const ishomepage = location.pathname === "/";
     const [open,setopen] = useState(false);
 
@@ -39,7 +39,7 @@ function Home(){
 
         {ishomepage && (
         <div className="flex  flex-col  sm:flex-row sm:justify-center sm:items-center gap-6 sm:my-32 sm:mx-36 m-4">
-            <img src="public/assets/WhatsApp Image 2025-07-14 at 21.45.16_0bb9f73a.jpg"
+            <img src="public/assets/pro.jpg"
             className="w-100 sm:h-96 h-64 rounded-2xl  object-cover sm:basis-2/5 shadow-2xl"
             ></img>
 

@@ -12,10 +12,10 @@ function Ecom(){
 
             <h1 className="text-2xl font-serif text-center m-4 hover:underline hover:decoration-cyan-400 text-white"> eCommerce project</h1>
             <div className="grid sm:grid-cols-2 grid-cols-1 ">
-              <img src="/public/assets/ef3ca2118170003.6083c712c5092.jpg"
+              <img src="/public/assets/ecom1.jpg"
               className="w-full h-full object-cover p-2"
               ></img>
-              <img src="public/assets/final_look_bajaar_theme.png"
+              <img src="public/assets/ecom2.png"
                  className="w-full h-full object-cover p-2"
               ></img>
             </div>
